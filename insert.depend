@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1567288669 source:c:\dev\mysql\insert\main.cpp
+	<iostream>
+	<windows.h>
+	<MySQL/mysql.h>
+	<string>
+
+1567286031 c:\dev\mysql\insert\dependencies\headers\mysql\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1567286031 c:\dev\mysql\insert\dependencies\headers\mysql\mysql_com.h
+
+1567286031 c:\dev\mysql\insert\dependencies\headers\mysql\mysql_time.h
+
+1567286031 c:\dev\mysql\insert\dependencies\headers\mysql\mysql_version.h
+	<custom_conf.h>
+
+1567286031 c:\dev\mysql\insert\dependencies\headers\mysql\typelib.h
+
+1567286031 c:\dev\mysql\insert\dependencies\headers\mysql\my_list.h
+
+1567286031 c:\dev\mysql\insert\dependencies\headers\mysql\my_alloc.h
+
